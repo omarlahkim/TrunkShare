@@ -1,6 +1,8 @@
 export default function ({}) {
     return {
         logo: require('./assets/images/tom_light.png'),
+        customLogo: require('./assets/images/custom-logo.png'),
+        logoOnly: require('./assets/images/logo-only.png'),
         sparkles: {
             topLeft: require('./assets/images/sparkles-top-left.png'),
             top: require('./assets/images/sparkles-top.png'),
